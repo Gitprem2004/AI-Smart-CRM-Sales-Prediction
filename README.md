@@ -93,7 +93,7 @@ Interested in **AI, Data Analytics, and real-world problem solving**
 
 ### Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ### Deal Prediction
 
