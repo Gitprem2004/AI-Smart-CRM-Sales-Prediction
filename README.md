@@ -88,3 +88,17 @@ By automating tasks like note analysis, follow-ups, and predictions, this CRM ac
 
 Final-year AI & Data Science Student
 Interested in **AI, Data Analytics, and real-world problem solving**
+
+## Project Screenshots
+
+### Dashboard
+
+![Dashboard](images/dashboard.png)
+
+### Deal Prediction
+
+![Prediction](images/prediction.png)
+
+## Live Demo
+
+https://lead-wise-crm-130438.withmattr.app/
